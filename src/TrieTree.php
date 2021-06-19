@@ -6,7 +6,7 @@
  * Time: 17:26
  */
 
-namespace Tire\Tree;
+namespace Trie\Tree;
 
 /**
  * 这是一个支持中文的字典树
