@@ -1,5 +1,5 @@
 {
-    "name": "tire/php-tire",
+    "name": "trie/php-trie",
     "autoload": {
         "psr-4": {
             "Tire\\PhpTire\\": "src/"
