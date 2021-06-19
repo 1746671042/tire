@@ -1,0 +1,16 @@
+{
+    "name": "tire/php-tire",
+    "autoload": {
+        "psr-4": {
+            "Tire\\PhpTire\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "bughu",
+            "email": "bughuhello@gmail.com"
+        }
+    ],
+    "license": "Apache-2.0",
+    "require": {}
+}
